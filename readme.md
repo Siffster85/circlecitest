@@ -1,1 +1,1 @@
-Placeholder
+Basic practice project to test Circle CI for managing CI in future Projects.
